@@ -1,21 +1,3 @@
-## Hi there 👋
-
-<!--
-**oleksandrvasylchenko-ip251-crypto/oleksandrvasylchenko-ip251-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><h1 align="center">Welcome to YOUR_NAME's Github</h1>
-
-
 <div align="center">
 
 # Welcome to Oleksandr's Github
@@ -103,41 +85,31 @@ Experienced in team development using GitHub, pull requests, code reviews and st
 
 ---
 
-# 🚀 Coding Activity
+# 🖥 Frontend Workspace
 
 <div align="center">
 
-<img width="850" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+Developer;TypeScript+Developer;Node.js+Developer;Building+Modern+Web+Applications"/>
+<img width="900" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1600">
 
 </div>
 
 ---
 
-# 💻 Developer Life
+# 🌐 Modern Web Development
 
 <div align="center">
 
-<img width="850" src="https://user-images.githubusercontent.com/74038190/212284068-5d6f0c4f-3d53-4d45-bef6-2e6d7c6f7f35.gif">
+<img width="900" src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1600">
 
 </div>
 
 ---
 
-# ⚡ Matrix Animation
+# ⚛ React Development
 
 <div align="center">
 
-<img width="850" src="https://user-images.githubusercontent.com/74038190/212744275-2e0cb7c0-7e5d-4c8e-bc0c-c6f0cf39d8e2.gif">
-
-</div>
-
----
-
-# 🔥 Current Stack
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&width=900&lines=React.js;TypeScript;Node.js;HTML+%7C+CSS+%7C+JavaScript;Frontend+Developer"/>
+<img width="900" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1600">
 
 </div>
 
@@ -165,11 +137,11 @@ Experienced in team development using GitHub, pull requests, code reviews and st
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact">
 
 </div>
 
