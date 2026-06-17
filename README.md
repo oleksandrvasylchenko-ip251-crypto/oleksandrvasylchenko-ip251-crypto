@@ -15,74 +15,121 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><h1 align="center">Welcome to YOUR_NAME's Github</h1>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Welcome%20to%20Oleksandr's%20Github&fontColor=ffffff&fontSize=35"/>
+
+</div>
+
+<hr>
+
 <h3 align="center">🔗 Connect with me</h3>
-<p align="center">
-  <a href="https://your-about-me-link.vercel.app"><img src="https://img.shields.io/badge/-ABOUT%20ME-000000?style=flat&logo=triangle&logoColor=white"/></a>
-  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/-TELEGRAM-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
-  <a href="https://wa.me/yourNumber"><img src="https://img.shields.io/badge/-WHATSAPP-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
 
----
+<div align="center">
 
-## About me
+<a href="https://t.me/YOUR_TELEGRAM">
+<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram"/>
+</a>
 
-Hello, I'm **Oleksandr Vasylchenko** — a Frontend Developer focused on building clean, scalable, and modern web applications.
-I value structure, performance, and long-term maintainability over hype.
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<p align="center">
-  Frontend Developer<br/>
-  React / Next.js / TypeScript<br/>
-  Modern UI & clean architecture<br/>
-  Strong GitHub collaboration mindset
-</p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/About_Me-black?style=for-the-badge"/>
+</a>
 
----
+</div>
 
-## Technologies
+<hr>
+
+<h2 align="center">About me</h2>
+
+<div align="center">
+
+Hello, I'm **Oleksandr Vasylchenko** — a Frontend Developer focused on building clean, scalable and modern web applications.
+
+I value structure, performance and long-term maintainability.
+
+### Frontend Developer
+React / Next.js / TypeScript
+
+Modern UI & clean architecture
+
+Strong GitHub collaboration mindset
+
+</div>
+
+<hr>
+
+<h2 align="center">Technologies</h2>
 
 ### Core Technologies
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GITHUB-181717?style=flat&logo=github&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=sass"/>
+<img src="https://skillicons.dev/icons?i=ts"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+
 </p>
 
 ### Frameworks & Libraries
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-REACT-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-NEXT.JS-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VITE-646CFF?style=flat&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-REDUX-764ABC?style=flat&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-RTK%20QUERY-764ABC?style=flat&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ZUSTAND-433E38?style=flat"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+<img src="https://skillicons.dev/icons?i=vite"/>
+<img src="https://skillicons.dev/icons?i=redux"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
 </p>
 
 ### Team Collaboration
-Experienced in team development using **GitHub**, pull requests, code reviews, and structured workflows.
 
----
+<div align="center">
 
-## Statistics
+Experienced in team development using GitHub, pull requests, code reviews and structured workflows.
 
-### YOUR_NAME's GitHub Stats
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&card_width=420" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
+<hr>
 
-### Contribution Streak
+<h2 align="center">Statistics</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" />
-</p>
+<div align="center">
 
-### Contribution Graph
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" />
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
+
+</div>
+
+<hr>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=grey"/>
+
+</div>
