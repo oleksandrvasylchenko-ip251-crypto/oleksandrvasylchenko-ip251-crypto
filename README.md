@@ -3,11 +3,11 @@
   <img src="https://i.gifer.com/SUV4.gif" width="100%" style="border-radius: 16px;" />
 </p>
 
-<p align="center" style="margin-top: -200px; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: white; text-shadow: 0 4px 30px rgba(0,0,0,0.9), 0 2px 10px rgba(0,0,0,0.7);">
-  <span style="font-size: 56px; font-weight: 700; letter-spacing: -0.02em; background: linear-gradient(135deg, #ffffff 0%, #e8eeff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+<p align="center" style="margin-top: -180px; font-family: 'Inter', sans-serif; color: white; text-shadow: 0 4px 30px rgba(0,0,0,0.8);">
+  <span style="font-size: 52px; font-weight: 700; letter-spacing: -0.02em; background: linear-gradient(135deg, #ffffff, #b6c8ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
     Олександр Васильченко
   </span><br>
-  <span style="font-size: 28px; font-weight: 400; letter-spacing: 0.03em; background: linear-gradient(135deg, #d6e0ff 0%, #8aa3ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+  <span style="font-size: 24px; font-weight: 400; background: linear-gradient(135deg, #b0c4f0, #7f96cf); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
     Frontend Developer
   </span>
 </p>
