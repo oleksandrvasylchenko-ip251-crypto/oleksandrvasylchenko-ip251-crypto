@@ -1,24 +1,4 @@
 
----
-
-## 🚀 Про мене
-
-Привіт! Я **Oleksandr Vasyldenko** — Frontend Developer із пристрастю до створення красивих та функціональних веб-інтерфейсів.
-
-### 🛠️ Технології
-- HTML5 / CSS3 / JavaScript
-- React / Next.js
-- TypeScript
-- Tailwind CSS / SCSS
-- Git / GitHub
-
-### 📫 Контакти
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Oleksandr Vasyldenko](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
