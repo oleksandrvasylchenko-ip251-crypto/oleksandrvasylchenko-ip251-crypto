@@ -1,35 +1,14 @@
-<!-- README.md з анімованим SVG фоном -->
+<!-- README.md -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner-dark.svg">
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner-light.svg" alt="Oleksandr Vasyldenko - Frontend Developer" width="100%">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=48&duration=3000&pause=1000&color=8AA3FF&center=true&vCenter=true&width=600&height=80&lines=Adam+Alston" alt="Adam Alston" />
 </p>
 
-## 👨‍💻 Oleksandr Vasyldenko
-
-**Frontend Developer** з України 🇺🇦
-
-### ⚡ Технології
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 📊 Статистика
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=24&duration=4000&pause=1500&color=B0C4F0&center=true&vCenter=true&width=400&height=50&lines=Software+Engineer" alt="Software Engineer" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/README-md-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 ---
 
