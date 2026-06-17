@@ -3,11 +3,11 @@
   <img src="https://i.gifer.com/SUV4.gif" width="100%" style="border-radius: 16px;" />
 </p>
 
-<p align="center" style="margin-top: -180px; font-family: 'Inter', sans-serif; color: white; text-shadow: 0 4px 30px rgba(0,0,0,0.8);">
-  <span style="font-size: 52px; font-weight: 700; background: linear-gradient(135deg, #ffffff, #b6c8ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+<p align="center" style="margin-top: -180px; font-family: 'Inter', sans-serif; color: white; text-shadow: 0 4px 30px rgba(0,0,0,0.9);">
+  <span style="font-size: 56px; font-weight: 700; letter-spacing: -0.02em; background: linear-gradient(135deg, #ffffff, #d6e0ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
     Олександр Васильченко
   </span><br>
-  <span style="font-size: 26px; font-weight: 400; background: linear-gradient(135deg, #b0c4f0, #7f96cf); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+  <span style="font-size: 28px; font-weight: 400; letter-spacing: 0.02em; background: linear-gradient(135deg, #b0c4f0, #7f96cf); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
     Frontend Developer
   </span>
 </p>
@@ -16,26 +16,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/README.md-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
----
-
-## 🔗 Connect with me
-
-<div align="center">
-
-<a href="https://t.me/YOUR_TELEGRAM">
-<img src="https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=telegram">
-</a>
-
-<a href="https://wa.me/YOUR_NUMBER">
-<img src="https://img.shields.io/badge/WHATSAPP-black?style=for-the-badge&logo=whatsapp">
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin">
-</a>
-
-</div>
-
 ---
 
 # About me
