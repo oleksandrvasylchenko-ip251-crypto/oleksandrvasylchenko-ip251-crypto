@@ -1,14 +1,14 @@
 <!-- README.md -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=48&duration=3000&pause=1000&color=8AA3FF&center=true&vCenter=true&width=600&height=80&lines=Adam+Alston" alt="Adam Alston" />
+  <img src="https://media.giphy.com/media/SUV4/giphy.gif" width="100%" height="300" style="object-fit: cover; border-radius: 12px;" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=24&duration=4000&pause=1500&color=B0C4F0&center=true&vCenter=true&width=400&height=50&lines=Software+Engineer" alt="Software Engineer" />
-</p>
+<h1 align="center">Oleksandr Vasyldenko</h1>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/README-md-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/README.md-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 ---
 
