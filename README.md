@@ -1,7 +1,57 @@
+<!-- README.md з анімованим SVG фоном -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner-dark.svg">
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner-light.svg" alt="Oleksandr Vasyldenko - Frontend Developer" width="100%">
+  </picture>
+</p>
+
+## 👨‍💻 Oleksandr Vasyldenko
+
+**Frontend Developer** з України 🇺🇦
+
+### ⚡ Технології
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📊 Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+---
+
+## 🔗 Connect with me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+<a href="https://t.me/YOUR_TELEGRAM">
+<img src="https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=telegram">
+</a>
+
+<a href="https://wa.me/YOUR_NUMBER">
+<img src="https://img.shields.io/badge/WHATSAPP-black?style=for-the-badge&logo=whatsapp">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin">
+</a>
+
 </div>
+
+---
 
 # About me
 
