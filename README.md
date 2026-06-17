@@ -1,35 +1,26 @@
 <!-- README.md -->
-<table align="center" width="100%" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="center" style="padding: 0; border: none; position: relative;">
-      <img src="https://i.gifer.com/SUV4.gif" width="100%" height="300" style="border-radius: 16px; display: block;" />
-      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); 
-                  font-family: 'Inter', 'Segoe UI', sans-serif;
-                  color: white;
-                  text-shadow: 0 4px 30px rgba(0,0,0,0.9);
-                  font-size: 52px;
-                  font-weight: 700;
-                  line-height: 1.1;
-                  width: 100%;
-                  text-align: center;">
-        <span style="background: linear-gradient(135deg, #ffffff, #b6c8ff, #8aa3ff);
-                     -webkit-background-clip: text;
-                     -webkit-text-fill-color: transparent;
-                     background-clip: text;">
-          Олександр Васильденко
-        </span><br>
-        <span style="font-size: 26px; 
-                     font-weight: 400;
-                     background: linear-gradient(135deg, #b0c4f0, #7f96cf);
-                     -webkit-background-clip: text;
-                     -webkit-text-fill-color: transparent;
-                     background-clip: text;">
-          Frontend Developer
-        </span>
-      </div>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://i.gifer.com/SUV4.gif" width="100%" height="300" style="border-radius: 16px; display: block;" />
+</p>
+
+<p align="center" style="margin-top: -200px; font-family: 'Inter', 'Segoe UI', sans-serif; 
+                  color: white; text-shadow: 0 4px 30px rgba(0,0,0,0.9), 0 2px 10px rgba(0,0,0,0.7);
+                  font-size: 52px; font-weight: 700; line-height: 1.1; letter-spacing: -0.02em;">
+  <span style="background: linear-gradient(135deg, #ffffff 0%, #b6c8ff 50%, #8aa3ff 100%);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               background-clip: text;">
+    Олександр Васильденко
+  </span><br>
+  <span style="font-size: 26px; font-weight: 400; 
+               background: linear-gradient(135deg, #b0c4f0 0%, #7f96cf 100%);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               background-clip: text;
+               letter-spacing: 0.04em;">
+    Frontend Developer
+  </span>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
