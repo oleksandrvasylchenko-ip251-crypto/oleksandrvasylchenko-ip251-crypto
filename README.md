@@ -1,32 +1,24 @@
 <!-- README.md -->
-<p align="center" style="position: relative; display: inline-block; width: 100%;">
-  <img src="https://i.gifer.com/SUV4.gif" width="100%" height="300" style="object-fit: cover; border-radius: 16px; display: block;" />
-  
-  <!-- Текст поверх GIF -->
-  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); 
-               font-family: 'Poppins', 'Inter', 'Segoe UI', sans-serif; 
-               color: #ffffff; 
-               text-shadow: 0 4px 30px rgba(0, 0, 0, 0.8), 0 2px 10px rgba(0, 0, 0, 0.5);
-               font-size: 48px; 
-               font-weight: 700; 
-               letter-spacing: -0.02em;
-               line-height: 1.2;
-               text-align: center;
-               width: 100%;
-               padding: 0 20px;
-               background: linear-gradient(135deg, #ffffff 0%, #b6c8ff 50%, #8aa3ff 100%);
+<p align="center">
+  <img src="https://i.gifer.com/SUV4.gif" width="100%" height="300" style="border-radius: 16px; display: block;" />
+</p>
+
+<p align="center" style="margin-top: -200px; font-family: 'Inter', 'Segoe UI', sans-serif; 
+                  color: white; text-shadow: 0 4px 30px rgba(0,0,0,0.9), 0 2px 10px rgba(0,0,0,0.7);
+                  font-size: 52px; font-weight: 700; line-height: 1.1; letter-spacing: -0.02em;">
+  <span style="background: linear-gradient(135deg, #ffffff 0%, #b6c8ff 50%, #8aa3ff 100%);
                -webkit-background-clip: text;
                -webkit-text-fill-color: transparent;
                background-clip: text;">
-    Oleksandr Vasyldenko<br>
-    <span style="font-size: 24px; font-weight: 400; 
-                 background: linear-gradient(135deg, #b0c4f0 0%, #7f96cf 100%);
-                 -webkit-background-clip: text;
-                 -webkit-text-fill-color: transparent;
-                 background-clip: text;
-                 letter-spacing: 0.04em;">
-      Frontend Developer
-    </span>
+    Олександр Васильденко
+  </span><br>
+  <span style="font-size: 26px; font-weight: 400; 
+               background: linear-gradient(135deg, #b0c4f0 0%, #7f96cf 100%);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               background-clip: text;
+               letter-spacing: 0.04em;">
+    Frontend Developer
   </span>
 </p>
 
