@@ -1,14 +1,15 @@
-<h1 align="center">Привіт 👋, я Олександр</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;React+Developer;C%2B%2B+Student;Always+learning+new+things"
-      alt="Typing SVG"
-    />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=48&duration=3000&pause=1000&color=8AA3FF&center=true&vCenter=true&width=600&height=80&lines=Adam+Alston" alt="Adam Alston" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=24&duration=4000&pause=1500&color=B0C4F0&center=true&vCenter=true&width=400&height=50&lines=Software+Engineer" alt="Software Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/README-md-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 <div align="center">
 
 # Welcome to Oleksandr's Github
