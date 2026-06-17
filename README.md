@@ -23,9 +23,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/README.md-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+ <a href="https://iconscout.com/icons/telegram" class="text-underline font-size-sm" target="_blank">telegram</a> by <a href="https://iconscout.com/contributors/nezhadeh" class="text-underline font-size-sm">MOstafa Askarnezhad</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
+  <a href="https://iconscout.com/icons/linkedin" class="text-underline font-size-sm" target="_blank">Linkedin</a> by <a href="https://iconscout.com/contributors/jagathish" class="text-underline font-size-sm" target="_blank">Jagathish Saravanan</a>
 </p>
+<a href="https://iconscout.com/icons/whatsapp" class="text-underline font-size-sm" target="_blank">Whatsapp</a> by <a href="https://iconscout.com/contributors/maninderkaur" class="text-underline font-size-sm" target="_blank">maninderkaur</a>
 
 ---
 
