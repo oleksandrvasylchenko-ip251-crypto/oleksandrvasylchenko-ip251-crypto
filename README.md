@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-Hello, I'm **YOUR_NAME** — a Frontend Developer focused on building clean, scalable, and modern web applications.
+Hello, I'm **Oleksandr Vasylchenko** — a Frontend Developer focused on building clean, scalable, and modern web applications.
 I value structure, performance, and long-term maintainability over hype.
 
 <p align="center">
