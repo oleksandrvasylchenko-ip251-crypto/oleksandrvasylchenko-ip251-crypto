@@ -1,16 +1,4 @@
 
-<!-- README.md -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=52&duration=1&pause=1000&color=B6C8FF&center=true&vCenter=true&width=600&height=80&lines=Oleksandr+Vasyldenko" alt="Oleksandr Vasyldenko" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=28&duration=1&pause=1500&color=7F96CF&center=true&vCenter=true&width=500&height=60&lines=Frontend+Developer" alt="Frontend Developer" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/README.md-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-</div>
-
 ---
 
 ## 🚀 Про мене
