@@ -1,32 +1,14 @@
 <!-- README.md -->
-<p align="center" style="position: relative; display: inline-block; width: 100%;">
-  <img src="https://i.gifer.com/SUV4.gif" width="100%" height="300" style="border-radius: 16px; display: block;" />
-  
-  <!-- Текст поверх GIF -->
-  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); 
-               font-family: 'Inter', 'Segoe UI', sans-serif; 
-               color: white; 
-               text-shadow: 0 4px 30px rgba(0, 0, 0, 0.9), 0 2px 10px rgba(0, 0, 0, 0.7);
-               font-size: 52px; 
-               font-weight: 700; 
-               line-height: 1.1;
-               text-align: center;
-               width: 100%;
-               padding: 0 20px;">
-    <span style="background: linear-gradient(135deg, #ffffff 0%, #b6c8ff 50%, #8aa3ff 100%);
-                 -webkit-background-clip: text;
-                 -webkit-text-fill-color: transparent;
-                 background-clip: text;">
-      Олександр Васильденко
-    </span><br>
-    <span style="font-size: 26px; font-weight: 400; 
-                 background: linear-gradient(135deg, #b0c4f0 0%, #7f96cf 100%);
-                 -webkit-background-clip: text;
-                 -webkit-text-fill-color: transparent;
-                 background-clip: text;
-                 letter-spacing: 0.04em;">
-      Frontend Developer
-    </span>
+<p align="center">
+  <img src="https://i.gifer.com/SUV4.gif" width="100%" style="border-radius: 16px;" />
+</p>
+
+<p align="center" style="margin-top: -180px; font-family: 'Inter', sans-serif; color: white; text-shadow: 0 4px 30px rgba(0,0,0,0.8);">
+  <span style="font-size: 52px; font-weight: 700; background: linear-gradient(135deg, #ffffff, #b6c8ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    Олександр Васильченко
+  </span><br>
+  <span style="font-size: 26px; font-weight: 400; background: linear-gradient(135deg, #b0c4f0, #7f96cf); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    Frontend Developer
   </span>
 </p>
 
