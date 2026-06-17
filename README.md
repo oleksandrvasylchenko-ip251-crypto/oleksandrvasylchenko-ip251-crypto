@@ -1,3 +1,14 @@
+<h1 align="center">Привіт 👋, я Олександр</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;React+Developer;C%2B%2B+Student;Always+learning+new+things"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
 <div align="center">
 
 # Welcome to Oleksandr's Github
@@ -6,7 +17,7 @@
 
 ---
 
-## 🔗 Connect with me
+##  Connect with me
 
 <div align="center">
 
