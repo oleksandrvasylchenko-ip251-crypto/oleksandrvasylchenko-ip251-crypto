@@ -3,11 +3,11 @@
   <img src="https://i.gifer.com/SUV4.gif" width="100%" style="border-radius: 16px;" />
 </p>
 
-<p align="center" style="margin-top: -180px; font-family: 'Inter', sans-serif; color: white; text-shadow: 0 4px 30px rgba(0,0,0,0.8);">
-  <span style="font-size: 52px; font-weight: 700; letter-spacing: -0.02em; background: linear-gradient(135deg, #ffffff, #b6c8ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+<p align="center" style="margin-top: -250px; font-family: 'Inter', sans-serif; color: white; text-shadow: 0 4px 30px rgba(0,0,0,0.9);">
+  <span style="font-size: 60px; font-weight: 700; letter-spacing: -0.02em; background: linear-gradient(135deg, #ffffff, #b6c8ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
     Олександр Васильченко
   </span><br>
-  <span style="font-size: 24px; font-weight: 400; background: linear-gradient(135deg, #b0c4f0, #7f96cf); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+  <span style="font-size: 28px; font-weight: 400; background: linear-gradient(135deg, #b0c4f0, #7f96cf); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
     Frontend Developer
   </span>
 </p>
@@ -16,25 +16,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/README.md-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
----
-
-# About me
-
-<div align="center">
-
-Hello, I'm **Oleksandr Vasylchenko** — Frontend Developer focused on building clean, scalable and modern web applications.
-
-I value structure, performance and long-term maintainability.
-
-### Frontend Developer
-
-React / Node.js / TypeScript
-
-Modern UI & clean architecture
-
-Strong GitHub collaboration mindset
-
-</div>
 
 ---
 
