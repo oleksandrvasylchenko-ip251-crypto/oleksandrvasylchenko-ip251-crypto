@@ -3,7 +3,7 @@
   <img src="https://i.gifer.com/SUV4.gif" width="100%" style="border-radius: 16px;" />
 </p>
 
-<p align="center" style="margin-top: -250px; font-family: 'Inter', sans-serif; color: white; text-shadow: 0 4px 30px rgba(0,0,0,0.9);">
+<p align="center" style="margin-top: -350px; font-family: 'Inter', sans-serif; color: white; text-shadow: 0 4px 30px rgba(0,0,0,0.9);">
   <span style="font-size: 60px; font-weight: 700; letter-spacing: -0.02em; background: linear-gradient(135deg, #ffffff, #b6c8ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
     Олександр Васильченко
   </span><br>
