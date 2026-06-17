@@ -1,6 +1,6 @@
 <!-- README.md -->
 <p align="center">
-  <img src="https://media.giphy.com/media/SUV4/giphy.gif" width="100%" height="300" style="object-fit: cover; border-radius: 12px;" />
+  <img src="https://i.gifer.com/SUV4.gif" width="100%" height="300" style="object-fit: cover; border-radius: 12px;" />
 </p>
 
 <h1 align="center">Oleksandr Vasyldenko</h1>
