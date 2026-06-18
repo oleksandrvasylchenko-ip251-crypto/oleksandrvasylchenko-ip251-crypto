@@ -10,7 +10,7 @@
   <a href="https://wa.me/380664990732" target="_blank" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://famous-horse-e4b349.netlify.app/" target="_blank" style="margin: 0 15px;">
+  <a href="https://www.linkedin.com/in/%D0%BE%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-0b6835325" target="_blank" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
  <a href="mailto:vasilchenko20010405@icloud.com" style="margin: 0 15px;">
