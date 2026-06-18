@@ -4,7 +4,7 @@
 </p>
 
 <p align="center" style="margin-top: -200px;">
-  <a href="https://t.me/your_telegram_username" target="_blank" style="margin: 0 15px;">
+  <a href="https://t.me/alex187187187187" target="_blank" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://wa.me/380XXXXXXXXX" target="_blank" style="margin: 0 15px;">
