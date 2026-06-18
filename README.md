@@ -73,6 +73,12 @@ Passionate about creating beautiful user interfaces and optimizing performance.
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
 </p>
 
+<h2 align="center" style="margin-top: 50px; margin-bottom: 30px; color: #b6c8ff; font-size: 28px;">What I Do</h2>
+
+<p align="center" style="margin-top: 30px;">
+  <img width="100%" src="https://cdn-icons-gif.flaticon.com/6325/6325341.gif" alt="Web Development" style="max-width: 600px; border-radius: 12px;" />
+</p>
+
 <h2 align="center" style="margin-top: 50px; margin-bottom: 30px; color: #b6c8ff; font-size: 28px;">Development Workflow</h2>
 
 <p align="center" style="font-size: 16px; color: #b0c4f0; background: linear-gradient(135deg, rgba(22,54,140,0.2), rgba(50,130,200,0.2)); padding: 20px 30px; border-radius: 12px; border: 1px solid rgba(110,170,255,0.3); max-width: 700px; margin-left: auto; margin-right: auto;">
@@ -93,7 +99,7 @@ Experienced in team development using GitHub, pull requests, code reviews and st
   <img width="850" src="https://user-images.githubusercontent.com/74038190/212744275-2e0cb7c0-7e5d-4c8e-bc0c-c6f0cf39d8e2.gif" alt="Matrix Animation" />
 </p>
 
-<h2 align="center" style="margin-top: 50px; margin-bottom: 35px; color: #b6c8ff; font-size: 28px;">GitHub Statistics</h2>
+<h2 align="center" style="margin-top: 50px; margin-bottom: 35px; color: #b6c8ff; font-size: 28px;">GitHub Activity</h2>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
@@ -110,24 +116,23 @@ Experienced in team development using GitHub, pull requests, code reviews and st
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h2 align="center" style="margin-top: 50px; margin-bottom: 35px; color: #b6c8ff; font-size: 28px;">Contribution & Achievements</h2>
+<h2 align="center" style="margin-top: 50px; margin-bottom: 35px; color: #b6c8ff; font-size: 28px;">Achievements</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=false&column=7" alt="Achievements" />
 </p>
 
-<h2 align="center" style="margin-top: 50px; margin-bottom: 35px; color: #b6c8ff; font-size: 28px;">Featured Projects</h2>
+<h2 align="center" style="margin-top: 50px; margin-bottom: 35px; color: #b6c8ff; font-size: 28px;">Programming Visual</h2>
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/YOUR_USERNAME" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-name-1&theme=github_dark&hide_border=true&border_radius=12" alt="Featured Project 1" style="border-radius: 12px;" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-name-2&theme=github_dark&hide_border=true&border_radius=12" alt="Featured Project 2" style="border-radius: 12px;" />
-  </a>
+<p align="center" style="margin-top: 30px;">
+  <img width="100%" src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=400&fit=crop" alt="Web Development" style="max-width: 700px; border-radius: 12px; border: 2px solid rgba(110,170,255,0.3);" />
 </p>
 
-<h2 align="center" style="margin-top: 50px; margin-bottom: 35px; color: #b6c8ff; font-size: 28px;">Contribution Snake</h2>
+<p align="center" style="margin-top: 40px;">
+  <img width="100%" src="https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=800&h=400&fit=crop" alt="Code Development" style="max-width: 700px; border-radius: 12px; border: 2px solid rgba(110,170,255,0.3);" />
+</p>
+
+<h2 align="center" style="margin-top: 50px; margin-bottom: 35px; color: #b6c8ff; font-size: 28px;">Contribution Activity</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
