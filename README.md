@@ -13,9 +13,9 @@
   <a href="https://famous-horse-e4b349.netlify.app/" target="_blank" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.vasilchenko20010405@icloud.com" style="margin: 0 15px;">
+ <a href="mailto:vasilchenko20010405@icloud.com" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+</a>
 </p>
 
 <p align="center" style="margin-top: 30px; font-family: 'Inter', 'Segoe UI', sans-serif; 
