@@ -25,7 +25,7 @@
                -webkit-background-clip: text;
                -webkit-text-fill-color: transparent;
                background-clip: text;">
-    Олександр Васильченко
+    Oleksandr Vasylchenko
   </span><br>
   <span style="font-size: 26px; font-weight: 400; 
                background: linear-gradient(135deg, #b0c4f0 0%, #7f96cf 100%);
@@ -33,12 +33,12 @@
                -webkit-text-fill-color: transparent;
                background-clip: text;
                letter-spacing: 0.04em;">
-    Frontend Developer | UI/UX Enthusiast
+    Frontend Developer 
   </span>
 </p>
 
 <p align="center" style="margin-top: 25px;">
-  <img src="https://img.shields.io/badge/Based_in-Ivano%E2%80%93Frankivsk%2C_Ukraine-blue?style=flat-square" alt="Location" />
+ <img src="https://img.shields.io/badge/Based_in-Ukraine-blue?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Focus-Modern_Web_Development-brightgreen?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-orange?style=flat-square" alt="Status" />
 </p>
