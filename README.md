@@ -99,12 +99,6 @@ Experienced in team development using GitHub, pull requests, code reviews and st
   <img width="850" src="https://user-images.githubusercontent.com/74038190/212744275-2e0cb7c0-7e5d-4c8e-bc0c-c6f0cf39d8e2.gif" alt="Matrix Animation" />
 </p>
 
-<h2 align="center" style="margin-top: 50px; margin-bottom: 35px; color: #b6c8ff; font-size: 28px;">GitHub Activity</h2>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
 <h2 align="center" style="margin-top: 50px; margin-bottom: 35px; color: #b6c8ff; font-size: 28px;">Languages & Tools</h2>
 
 <p align="center" style="background: linear-gradient(135deg, rgba(22,54,140,0.15), rgba(50,130,200,0.15)); padding: 30px; border-radius: 12px; border: 1px solid rgba(110,170,255,0.2);">
@@ -116,12 +110,6 @@ Experienced in team development using GitHub, pull requests, code reviews and st
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h2 align="center" style="margin-top: 50px; margin-bottom: 35px; color: #b6c8ff; font-size: 28px;">Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=false&column=7" alt="Achievements" />
-</p>
-
 <h2 align="center" style="margin-top: 50px; margin-bottom: 35px; color: #b6c8ff; font-size: 28px;">Programming Visual</h2>
 
 <p align="center" style="margin-top: 30px;">
@@ -130,12 +118,6 @@ Experienced in team development using GitHub, pull requests, code reviews and st
 
 <p align="center" style="margin-top: 40px;">
   <img width="100%" src="https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=800&h=400&fit=crop" alt="Code Development" style="max-width: 700px; border-radius: 12px; border: 2px solid rgba(110,170,255,0.3);" />
-</p>
-
-<h2 align="center" style="margin-top: 50px; margin-bottom: 35px; color: #b6c8ff; font-size: 28px;">Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 <h2 align="center" style="margin-top: 50px; margin-bottom: 35px; color: #b6c8ff; font-size: 28px;">Connect With Me</h2>
@@ -153,10 +135,6 @@ Experienced in team development using GitHub, pull requests, code reviews and st
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center" style="margin-top: 40px;">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center" style="margin-top: 40px; color: #b0c4f0; font-size: 14px;">
