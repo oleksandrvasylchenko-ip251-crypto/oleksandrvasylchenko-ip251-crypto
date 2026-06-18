@@ -7,13 +7,13 @@
   <a href="https://t.me/alex187187187187" target="_blank" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://wa.me/380XXXXXXXXX" target="_blank" style="margin: 0 15px;">
+  <a href="https://wa.me/380664990732" target="_blank" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank" style="margin: 0 15px;">
+  <a href="https://famous-horse-e4b349.netlify.app/" target="_blank" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com" style="margin: 0 15px;">
+  <a href="mailto:your.vasilchenko20010405@icloud.com" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
